@@ -1,13 +1,13 @@
 #index.html code
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Leaflet Step-1</title>
+#<!DOCTYPE html>
+#<html lang="en">
+#<head>
+#  <meta charset="UTF-8">
+#  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+#  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+#  <title>Leaflet Step-1</title>
 
-  <!-- Leaflet CSS -->
+#  <!-- Leaflet CSS -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.css" />
 
   <!-- Our CSS -->
